@@ -1,2 +1,4 @@
 # demo_git
-une demaonstration de débutant
+une demonstration de débutant 
+bonne chance
+
